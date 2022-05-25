@@ -1,2 +1,2 @@
 # HeloNFT
-A practical NFT sales platform which supports ERC20 and ERC1155.
+Ethereum smart contracts for a practical NFT marketplace.
